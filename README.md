@@ -1,6 +1,6 @@
 # OpenAI GPT-4 Web Browsing Prompts
 
-This repository contains example prompts to utilize the new web browsing feature of OpenAI's GPT-4, as seen in our [YouTube tutorial](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q). This is a transformative update that allows the model to surf the internet, greatly enhancing its utility and functionality. Here are three prompts that demonstrate its power:
+This repository contains example prompts to utilize the new web browsing feature of OpenAI's GPT-4, as seen in my [YouTube tutorial](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q). This is a transformative update that allows the model to surf the internet, greatly enhancing its utility and functionality. Here are three prompts that demonstrate its power:
 
 ## Prompt 1: Modular Mojo Vs. Python
 
@@ -33,4 +33,4 @@ USER: 'I need you to execute the following tasks step by step:
 
 Feel free to use these prompts as a starting point for your own exploration of GPT-4's new web browsing capability. If you discover new and exciting use cases, we'd love to hear about them!
 
-Don't forget to check out our [YouTube channel](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q) for more tutorials and insights on navigating the continually evolving landscape of AI!
+Don't forget to check out my [YouTube channel](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q) for more tutorials and insights on navigating the continually evolving landscape of AI!
