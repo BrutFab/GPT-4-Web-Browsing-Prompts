@@ -34,3 +34,5 @@ USER: 'I need you to execute the following tasks step by step:
 Feel free to use these prompts as a starting point for your own exploration of GPT-4's new web browsing capability. If you discover new and exciting use cases, we'd love to hear about them!
 
 Don't forget to check out my [YouTube channel](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q) for more tutorials and insights on navigating the continually evolving landscape of AI!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brutfab)
